@@ -1,8 +1,8 @@
 import React, { Component } from 'react';
 import styled from 'styled-components';
+import { CenteredHeader } from './App.js';
 
-import { CenteredHeader } from './App.js'
-import { PortButton } from './Code.js'
+// import { PortButton } from './Code.js'
 
 const FormDiv = styled.div`
   margin: 0 auto;
